@@ -1,0 +1,17 @@
+{
+    "name": "zx/php-common-algorithms",
+    "description": "php通用算法集合",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^7.2.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZX\\": "src/"
+        },
+        "files": [
+        ]
+    },
+    "minimum-stability": "dev"
+}
